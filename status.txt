@@ -1,0 +1,2 @@
+file_cloning=on
+random_cloning=off
