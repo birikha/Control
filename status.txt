@@ -1,2 +1,2 @@
-file_cloning=on
-random_cloning=on
+file_cloning=off
+random_cloning=off
